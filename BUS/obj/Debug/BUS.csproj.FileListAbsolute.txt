@@ -1,0 +1,38 @@
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\bin\Debug\BUS.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\bin\Debug\BUS.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\bin\Debug\DAL.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\bin\Debug\DTO.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\bin\Debug\DAL.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\bin\Debug\DTO.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\obj\Debug\BUS.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\BUS\obj\Debug\BUS.pdb
+F:\QuanTraSua\BUS\bin\Debug\BUS.dll
+F:\QuanTraSua\BUS\bin\Debug\BUS.pdb
+F:\QuanTraSua\BUS\bin\Debug\DAL.dll
+F:\QuanTraSua\BUS\bin\Debug\DTO.dll
+F:\QuanTraSua\BUS\bin\Debug\DAL.pdb
+F:\QuanTraSua\BUS\bin\Debug\DTO.pdb
+F:\QuanTraSua\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\QuanTraSua\BUS\obj\Debug\BUS.dll
+F:\QuanTraSua\BUS\obj\Debug\BUS.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\bin\Debug\BUS.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\bin\Debug\BUS.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\bin\Debug\DAL.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\bin\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\bin\Debug\DAL.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\obj\Debug\BUS.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\BUS\obj\Debug\BUS.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\bin\Debug\BUS.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\bin\Debug\BUS.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\bin\Debug\DAL.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\bin\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\bin\Debug\DAL.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\obj\Debug\BUS.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\BUS\obj\Debug\BUS.pdb

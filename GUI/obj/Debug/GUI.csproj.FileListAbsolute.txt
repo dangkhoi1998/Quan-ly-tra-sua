@@ -1,0 +1,357 @@
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.DangNhap.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\GUI.exe.config
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\GUI.exe
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\GUI.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\BUS.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\DTO.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\DAL.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\BUS.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\DTO.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\DAL.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.exe
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.Chinh.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.BanHang.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.ThanhToan.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.KhachHang.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\FlashControlV71.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\bin\Debug\stdole.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.HoaDonIn.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.KhoaSo.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.QuanLy.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.QLSanPham.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.QLCongThuc.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.ThemLoaiSp.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieu.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuNhap.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.NhaCungCap.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.HoaDonNhap.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuHuy.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.HoaDonHuy.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.QLTaiKhoan.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.ThongKe.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.TKDoanhThu.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.TKDtThangTrongNam.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.TKDtCaTrongNgay.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.TKDtNgayTrongThang.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.TKDtNam.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.TKNlNhap.resources
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\GUI\obj\Debug\GUI.TKNlHuy.resources
+F:\QuanTraSua\GUI\bin\Debug\GUI.exe.config
+F:\QuanTraSua\GUI\obj\Debug\GUI.exe
+F:\QuanTraSua\GUI\obj\Debug\GUI.pdb
+F:\QuanTraSua\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\QuanTraSua\GUI\obj\Debug\GUI.BanHang.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.Chinh.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.DangNhap.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.DoiMatKhau.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.HoaDonHuy.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.HoaDonIn.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.HoaDonNhap.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.KhachHang.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.KhoaSo.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.NhaCungCap.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.QLCongThuc.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieu.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuHuy.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuNhap.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.QLSanPham.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.QLTaiKhoan.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.QuanLy.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.ThanhToan.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.ThemLoaiSp.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.ThongKe.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.TKDoanhThu.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.TKDtCaTrongNgay.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.TKDtNam.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.TKDtNgayTrongThang.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.TKDtThangTrongNam.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.TKNlHuy.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.TKNlNhap.resources
+F:\QuanTraSua\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\QuanTraSua\GUI\bin\Debug\GUI.exe
+F:\QuanTraSua\GUI\bin\Debug\GUI.pdb
+F:\QuanTraSua\GUI\bin\Debug\BUS.dll
+F:\QuanTraSua\GUI\bin\Debug\DTO.dll
+F:\QuanTraSua\GUI\bin\Debug\DAL.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\QuanTraSua\GUI\bin\Debug\ShockwaveFlashObjects.dll
+F:\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\QuanTraSua\GUI\bin\Debug\stdole.dll
+F:\QuanTraSua\GUI\bin\Debug\BUS.pdb
+F:\QuanTraSua\GUI\bin\Debug\DTO.pdb
+F:\QuanTraSua\GUI\bin\Debug\DAL.pdb
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\GUI.exe.config
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.exe
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.pdb
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\GUI.exe
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\GUI.pdb
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\BUS.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.Shared.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\DTO.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\FlashControlV71.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\DAL.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\ShockwaveFlashObjects.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\stdole.dll
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\BUS.pdb
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\DTO.pdb
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\DAL.pdb
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.BanHang.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.Chinh.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.DangNhap.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.DoiMatKhau.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.HoaDonHuy.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.HoaDonIn.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.HoaDonNhap.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.KhachHang.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.KhoaSo.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.NhaCungCap.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLCongThuc.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieu.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuHuy.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuNhap.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLSanPham.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLTaiKhoan.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QuanLy.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.ThanhToan.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.ThemLoaiSp.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.ThongKe.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDoanhThu.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDtCaTrongNgay.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDtNam.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDtNgayTrongThang.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDtThangTrongNam.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKNlHuy.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKNlNhap.resources
+F:\tài liệu kỳ 2 năm 3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\GUI.exe.config
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.exe
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.pdb
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\GUI.exe
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\GUI.pdb
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\BUS.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.Shared.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\DTO.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\FlashControlV71.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\DAL.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\ShockwaveFlashObjects.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\stdole.dll
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\BUS.pdb
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\DTO.pdb
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\bin\Debug\DAL.pdb
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.BanHang.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.Chinh.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.DangNhap.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.DoiMatKhau.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.HoaDonHuy.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.HoaDonIn.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.HoaDonNhap.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.KhachHang.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.KhoaSo.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.NhaCungCap.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLCongThuc.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieu.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuHuy.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuNhap.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLSanPham.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QLTaiKhoan.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.QuanLy.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.ThanhToan.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.ThemLoaiSp.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.ThongKe.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDoanhThu.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDtCaTrongNgay.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDtNam.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDtNgayTrongThang.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKDtThangTrongNam.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKNlHuy.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.TKNlNhap.resources
+F:\Tài liệu môn học kỳ_2  năm_3\Công nghệ.Net\QuanTraSua\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\GUI.exe.config
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.exe
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\GUI.exe
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\GUI.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\BUS.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.Shared.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\FlashControlV71.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\DAL.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\ShockwaveFlashObjects.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\stdole.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\BUS.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\bin\Debug\DAL.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.BanHang.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.Chinh.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.DangNhap.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.DoiMatKhau.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.HoaDonHuy.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.HoaDonIn.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.HoaDonNhap.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.KhachHang.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.KhoaSo.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.NhaCungCap.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.QLCongThuc.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieu.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuHuy.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.QLNguyenLieuNhap.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.QLSanPham.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.QLTaiKhoan.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.QuanLy.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.ThanhToan.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.ThemLoaiSp.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.ThongKe.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.TKDoanhThu.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.TKDtCaTrongNgay.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.TKDtNam.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.TKDtNgayTrongThang.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.TKDtThangTrongNam.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.TKNlHuy.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.TKNlNhap.resources
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\GUI.exe.config
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.exe
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\GUI.exe
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\GUI.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\BUS.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.Shared.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\FlashControlV71.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\DAL.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\ShockwaveFlashObjects.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\stdole.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\BUS.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\bin\Debug\DAL.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.BanHang.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.Chinh.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.DangNhap.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.DoiMatKhau.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.HoaDonHuy.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.HoaDonIn.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.HoaDonNhap.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.KhachHang.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.KhoaSo.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.NhaCungCap.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.QLCongThuc.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.QLNguyenLieu.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.QLNguyenLieuHuy.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.QLNguyenLieuNhap.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.QLSanPham.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.QLTaiKhoan.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.QuanLy.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.ThanhToan.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.ThemLoaiSp.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.ThongKe.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.TKDoanhThu.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.TKDtCaTrongNgay.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.TKDtNam.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.TKDtNgayTrongThang.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.TKDtThangTrongNam.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.TKNlHuy.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.TKNlNhap.resources
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache

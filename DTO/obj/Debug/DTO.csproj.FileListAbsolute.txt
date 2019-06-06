@@ -1,0 +1,21 @@
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DTO\bin\Debug\DTO.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DTO\bin\Debug\DTO.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DTO\obj\Debug\DTO.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DTO\obj\Debug\DTO.pdb
+F:\QuanTraSua\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\QuanTraSua\DTO\obj\Debug\DTO.dll
+F:\QuanTraSua\DTO\obj\Debug\DTO.pdb
+F:\QuanTraSua\DTO\bin\Debug\DTO.dll
+F:\QuanTraSua\DTO\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DTO\bin\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DTO\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DTO\obj\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DTO\obj\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DTO\bin\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DTO\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DTO\obj\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DTO\obj\Debug\DTO.pdb

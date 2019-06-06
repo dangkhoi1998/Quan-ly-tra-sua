@@ -1,0 +1,30 @@
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\bin\Debug\DAL.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\bin\Debug\DAL.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\bin\Debug\DTO.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\bin\Debug\DTO.pdb
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\obj\Debug\DAL.dll
+D:\HocTap\DuLieu\Lập trình C#.Net\DOAN\QuanTraSua\DAL\obj\Debug\DAL.pdb
+F:\QuanTraSua\DAL\bin\Debug\DAL.dll
+F:\QuanTraSua\DAL\bin\Debug\DAL.pdb
+F:\QuanTraSua\DAL\bin\Debug\DTO.dll
+F:\QuanTraSua\DAL\bin\Debug\DTO.pdb
+F:\QuanTraSua\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\QuanTraSua\DAL\obj\Debug\DAL.dll
+F:\QuanTraSua\DAL\obj\Debug\DAL.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DAL\bin\Debug\DAL.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DAL\bin\Debug\DAL.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DAL\bin\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DAL\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DAL\obj\Debug\DAL.dll
+E:\QuanTraSua-20190414T162955Z-001\QuanTraSua\DAL\obj\Debug\DAL.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DAL\bin\Debug\DAL.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DAL\bin\Debug\DAL.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DAL\bin\Debug\DTO.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DAL\bin\Debug\DTO.pdb
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DAL\obj\Debug\DAL.dll
+E:\QuanTraSua-20190414T162955Z-001\QL_TRASUA\DAL\obj\Debug\DAL.pdb
