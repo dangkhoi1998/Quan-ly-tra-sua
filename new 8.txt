@@ -1,0 +1,418 @@
+"section4": [
+    {
+      "id": 0,
+      "order": "Điều 40. ",
+      "content": "Vi phạm quy định về đăng ký tàu thuyền",
+      "result": true
+    },
+    {
+      "id": 1,
+      "order": "",
+      "content": "1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 2,
+      "order": "",
+      "content": "a) Đăng ký tàu thuyền không đúng thời hạn theo quy định;",
+      "result": true
+    },
+    {
+      "id": 3,
+      "order": "",
+      "content": " b) Thiếu một trong các loại giấy chứng nhận, tài liệu của tàu thuyền hoặc một trong các loại giấy chứng nhận, tài liệu đó hết giá trị sử dụng.",
+      "result": true
+    },
+    {
+      "id": 4,
+      "order": "",
+      "content": "2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 5,
+      "order": "",
+      "content": "a) Khai thác tàu thuyền khi chưa được cấp giấy chứng nhận đăng ký tàu thuyền;",
+      "result": true
+    },
+    {
+      "id": 6,
+      "order": "",
+      "content": "b) Không thực hiện đăng ký thay đổi chủ tàu thuyền theo quy định khi tàu thuyền đã được mua, bán, chuyển quyền sở hữu;",
+      "result": true
+    },
+    {
+      "id": 7,
+      "order": "",
+      "content": "c) Không thực hiện đăng ký thay đổi theo quy định khi tàu thuyền có sự thay đổi tên tàu, địa chỉ chủ tàu, thông số kỹ thuật, công dụng của tàu thuyền, tổ chức đăng kiểm tàu biển;",
+      "result": true
+    },
+    {
+      "id": 8,
+      "order": "",
+      "content": "d) Không thực hiện xóa đăng ký tàu theo quy định.",
+      "result": true
+    },
+    {
+      "id": 9,
+      "order": "",
+      "content": "3. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 10,
+      "order": "",
+      "content": "a) Mua, bán, thuê, cho thuê, mượn, cho mượn một trong các giấy chứng nhận của tàu thuyền;",
+      "result": true
+    },
+    {
+      "id": 11,
+      "order": "",
+      "content": "  b) Sử dụng một trong các giấy chứng nhận của tàu thuyền khác, giấy chứng nhận bị tẩy xóa, sửa chữa sai lệch nội dung hoặc giấy chứng nhận giả;",
+      "result": true
+    },
+    {
+      "id": 12,
+      "order": "",
+      "content": " c) Cố tình khai báo sai lệnh thông tin; sử dụng giấy tờ tẩy xóa, sửa chữa, giả mạo trong hồ sơ xin cấp giấy chứng nhận của tàu thuyền.",
+      "result": true
+    },
+    {
+      "id": 13,
+      "order": "",
+      "content": "4. Đối với hành vi không có hoặc có giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính đối với tàu thuyền chở khách, chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác nhưng đã hết hạn sử dụng theo quy định sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 14,
+      "order": "",
+      "content": " a) Phạt tiền từ 15.000.000 đồng đến 30.000.000 đồng đối với tàu thuyền chở khách dưới 50 người; tàu thuyền chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+      "id": 15,
+      "order": "",
+      "content": "b) Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với tàu thuyền chở khách từ 50 người đến dưới 100 người; tàu thuyền chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+      "id": 16,
+      "order": "",
+      "content": " c) Phạt tiền từ 50.000.000 đồng đến 80.000.000 đồng đối với tàu thuyền chở khách từ 100 người đến dưới 300 người; tàu thuyền chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác có tổng dung tích từ 500 GT đến dưới 3.000 GT;",
+      "result": true
+    },
+    {
+      "id": 17,
+      "order": "",
+      "content": " d) Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với tàu thuyền chở khách từ 300 người trở lên; tàu thuyền chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+      "id": 18,
+      "order": "",
+      "content": "5. Hình thức xử phạt bổ sung: Tịch thu tang vật vi phạm hành chính đối với các hành vi vi phạm quy định tại điểm b khoản 3 Điều này.",
+      "result": true
+    },
+    {
+      "id": 19,
+      "order": "",
+      "content": "6. Biện pháp khắc phục hậu quả: Buộc làm thủ tục xóa đăng ký tàu theo quy định đối với hành vi vi phạm quy định tại điểm d khoản 2 Điều này.",
+      "result": true
+    },
+    {
+      "id": 20,
+      "order": "Điều 41. ",
+      "content": "Vi phạm quy định về niên hạn sử dụng của phương tiện thủy nội địa khi vào, rời và hoạt động tại cảng biển",
+      "result": true
+    },
+    {
+      "id": 21,
+      "order": "",
+      "content": "1. Đối với hành vi khai thác tàu thuyền quá niên hạn sử dụng sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 22,
+      "order": "",
+      "content": "      a) Phạt tiền từ 45.000.000 đồng đến 55.000.000 đồng đối với phương tiện chở hàng nguy hiểm, chở dầu, chở khí hóa lỏng, tàu đệm khí;",
+      "result": true
+    },
+    {
+      "id": 23,
+      "order": "",
+      "content": "  b) Phạt tiền từ 55.000.000 đồng đến 65.000.000 đồng đối với phương tiện chuyên vận tải hành khách có sức chở trên 12 người mà không phải là tàu thủy lưu trú du lịch ngủ đêm, khách sạn nổi, nhà hàng nổi, tàu đệm khí;",
+      "result": true
+    },
+    {
+      "id": 24,
+      "order": "",
+      "content": " c) Phạt tiền từ 65.000.000 đồng đến 75.000.000 đồng đối với nhà hàng nổi, khách sạn nổi, phương tiện lưu trú du lịch ban đêm.",
+      "result": true
+    },
+    {
+      "id": 25,
+      "order": "",
+      "content": "2. Hình thức xử phạt bổ sung: Tước quyền sử dụng bằng thuyền trưởng hoặc giấy chứng nhận khả năng chuyện môn của thuyền trưởng có thời hạn từ 02 tháng đến 03 tháng đối với các hành vi vi phạm quy định tại khoản 1 Điều này.",
+      "result": true
+    },
+    {
+      "id": 26,
+      "order": "Điều 42.",
+      "content": "Vi phạm quy định về bố trí thuyền viên, cấp và sử dụng chứng chỉ hành nghề, sổ thuyền viên",
+      "result": true
+    },
+    {
+      "id": 27,
+      "order": "",
+      "content": "1. Phạt tiền từ 1.000.000 đồng đến 5.000.000 đồng đối với hành vi không ghi hoặc ghi không đầy đủ thông tin trong sổ thuyền viên hoặc không khai báo hoặc khai báo không đầy đủ thông tin vào Cơ sở dữ liệu quản lý thuyền viên của Cục Hàng hải Việt Nam theo quy định.",
+      "result": true
+    },
+    {
+      "id": 28,
+      "order": "",
+      "content": "2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 29,
+      "order": "",
+      "content": "a) Bố trí thuyền viên làm việc trên tàu thuyền không có đủ chứng chỉ hành nghề, sổ thuyền viên hoặc có chứng chỉ hành nghề nhưng hết hiệu lực hoặc bố trí chức danh thuyền viên không phù hợp với chứng chỉ hành nghề của thuyền viên;",
+      "result": true
+    },
+    {
+      "id": 30,
+      "order": "",
+      "content": "b) Giao nhiệm vụ cho thuyền viên làm việc trên tàu thuyền không phù hợp với chức danh trong sổ thuyền viên trái quy định.",
+      "result": true
+    },
+    {
+      "id": 31,
+      "order": "",
+      "content": "3. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi mua, bán, thuê, cho thuê, mượn, cho mượn chứng chỉ hành nghề, số thuyền viên.",
+      "result": true
+    },
+    {
+      "id": 32,
+      "order": "",
+      "content": "4. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 33,
+      "order": "",
+      "content": "a) Sử dụng chứng chỉ hành nghề, sổ thuyền viên giả mạo hoặc đã bị sửa chữa, tẩy xóa làm sai lệch nội dung trái quy định;",
+      "result": true
+    },
+    {
+      "id": 34,
+      "order": "",
+      "content": "b) Sử dụng chứng chỉ hành nghề, sổ thuyền viên của người khác để làm việc trên tàu;",
+      "result": true
+    },
+    {
+      "id": 35,
+      "order": "",
+      "content": " c) Cố tình khai báo sai lệch thông tin hoặc sử dụng giấy tờ sửa chữa, giả mạo trong hồ sơ xin cấp, cấp lại chứng chỉ hành nghề, sổ thuyền viên.",
+      "result": true
+    },
+    {
+      "id": 36,
+      "order": "",
+      "content": " a) Tước quyền sử dụng chứng chỉ hành nghề có thời hạn từ 06 tháng đến 12 tháng đối với hành vi vi phạm quy định tại khoản 3 Điều này;",
+      "result": true
+    },
+    {
+      "id": 37,
+      "order": "",
+      "content": "b) Tịch thu chứng chỉ hành nghề, sổ thuyền viên đối với hành vi vi phạm quy định tại điểm a khoản 4 Điều này.",
+      "result": true
+    }
+  ],
+  "section7": [
+    {
+      "id": 0,
+      "order": "Điều 49.",
+      "content": "Vi phạm quy định về điều kiện kinh doanh dịch vụ đóng mới, hoán cải tàu thuyền",
+      "result": true
+    },
+    {
+      "id": 1,
+      "order": "",
+      "content": "1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 2,
+      "order": "",
+      "content": " a) Không thiết lập và duy trì áp dụng hệ thống quản lý chất lượng, hệ thống quản lý an toàn và môi trường theo quy định đối với cơ sở đóng tàu loại 1;",
+      "result": true
+    },
+    {
+      "id": 3,
+      "order": "",
+      "content": "b) Không thiết lập các quy trình công việc đóng mới và hoán cải tàu phù hợp với quy định của quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu đối với cơ sở đóng tàu loại 2.",
+      "result": true
+    },
+    {
+      "id": 4,
+      "order": "",
+      "content": "2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 5,
+      "order": "",
+      "content": "a) Không có phương án bảo đảm an toàn, vệ sinh lao động theo quy định;",
+      "result": true
+    },
+    {
+      "id": 6,
+      "order": "",
+      "content": " b) Không có đủ điều kiện an toàn về phòng cháy, chữa cháy hoặc không có phương án chữa cháy theo quy định;",
+      "result": true
+    },
+    {
+      "id": 7,
+      "order": "",
+      "content": " c) Không có đủ hồ sơ về bảo vệ môi trường được cơ quan có thẩm quyền phê duyệt theo quy định;",
+      "result": true
+    },
+    {
+      "id": 8,
+      "order": "",
+      "content": " d) Không có đủ cơ sở vật chất hoặc thiếu một trong những trang thiết bị phục vụ nhu cầu đóng mới, sửa chữa tàu hoặc trang thiết bị không phù hợp với quy chuẩn kỹ thuật quốc gia của cơ sở đóng mới, sửa chữa tàu theo quy định;",
+      "result": true
+    },
+    {
+      "id": 9,
+      "order": "",
+      "content": " đ) Không có đủ phương tiện tiếp nhận, thu hồi các chất thải từ tàu để xử lý theo quy định;",
+      "result": true
+    },
+    {
+      "id": 10,
+      "order": "",
+      "content": "e) Không có đủ nhân lực hoặc hệ thống, công trình hoặc thiết bị quản lý, xử lý chất thải phát sinh tại cơ sở theo quy định.",
+      "result": true
+    },
+    {
+      "id": 11,
+      "order": "",
+      "content": "3. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với mỗi hành vi thiếu từ 01 cán bộ kỹ thuật hoặc cán bộ kiểm tra chất lượng hoặc thợ đóng tàu theo quy định.",
+      "result": true
+    },
+    {
+      "id": 12,
+      "order": "",
+      "content": "4. Phạt tiền từ 15.000.000 đồng đến 30.000.000 đồng đối với hành vi thiếu từ 02 cán bộ kỹ thuật hoặc cán bộ kiểm tra chất lượng hoặc thợ đóng tàu theo quy định.",
+      "result": true
+    },
+    {
+      "id": 13,
+      "order": "Điều 50.",
+      "content": "Vi phạm quy định về điều kiện kinh doanh dịch vụ sửa chữa tàu thuyền",
+      "result": true
+    },
+    {
+      "id": 14,
+      "order": "",
+      "content": "1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi không thiết lập các quy trình công việc sửa chữa tàu phù hợp quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu theo quy định.",
+      "result": true
+    },
+    {
+      "id": 15,
+      "order": "",
+      "content": " a) Không có phương án bảo đảm an toàn, vệ sinh lao động theo quy định;",
+      "result": true
+    },
+    {
+      "id": 16,
+      "order": "",
+      "content": "b) Không có đủ điều kiện an toàn về phòng cháy, chữa cháy hoặc không có phương án chữa cháy theo quy định;",
+      "result": true
+    },
+    {
+      "id": 17,
+      "order": "",
+      "content": " c) Không có đủ hồ sơ về bảo vệ môi trường được cơ quan có thẩm quyền phê duyệt theo quy định;",
+      "result": true
+    },
+    {
+      "id": 18,
+      "order": "",
+      "content": "d) Không có đủ cơ sở vật chất hoặc thiếu một trong những trang thiết bị phục vụ nhu cầu đóng mới, sửa chữa tàu thuyền hoặc trang thiết bị không phù hợp với quy chuẩn kỹ thuật quốc gia của cơ sở đóng mới, sửa chữa tàu thuyền theo quy định;",
+      "result": true
+    },
+    {
+      "id": 19,
+      "order": "",
+      "content": " đ) Không có đủ phương tiện tiếp nhận, thu hồi các chất thải từ tàu để xử lý theo quy định;",
+      "result": true
+    },
+    {
+      "id": 20,
+      "order": "",
+      "content": " e) Không có đủ nhân lực hoặc hệ thống, công trình hoặc thiết bị quản lý, xử lý chất thải phát sinh tại cơ sở theo quy định.",
+      "result": true
+    },
+    {
+      "id": 21,
+      "order": "",
+      "content": "3. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với mỗi hành vi thiếu từ 01 cán bộ kỹ thuật hoặc cán bộ kiểm tra chất lượng hoặc thợ sửa chữa tàu theo quy định.",
+      "result": true
+    },
+    {
+      "id": 22,
+      "order": "",
+      "content": "4. Phạt tiền từ 15.000.000 đồng đến 30.000.000 đồng đối với hành vi thiếu từ 02 cán bộ kỹ thuật hoặc cán bộ kiểm tra chất lượng hoặc thợ sửa chữa tàu theo quy định.",
+      "result": true
+    },
+    {
+      "id": 23,
+      "order": "Điều 51.",
+      "content": "Vi phạm các quy định về hoạt động phá dỡ tàu thuyền",
+      "result": true
+    },
+    {
+      "id": 24,
+      "order": "",
+      "content": "1. Phạt tiền từ 30.000.000 đồng đến 60.000.000 đồng đối với hành vi không thực hiện phá dỡ tàu biển trong thời hạn quy định.",
+      "result": true
+    },
+    {
+      "id": 25,
+      "order": "",
+      "content": "2. Phạt tiền từ 60.000.000 đồng đến 80.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 26,
+      "order": "",
+      "content": "a) Không lập kế hoạch thu gom, lưu giữ, vận chuyển và xử lý chất thải phát sinh từ hoạt động phá dỡ đối với từng tàu hoặc không có hợp đồng với doanh nghiệp được phép kinh doanh dịch vụ này về việc thu gom, vận chuyển và xử lý chất thải phát sinh từ hoạt động phá dỡ từng tàu;",
+      "result": true
+    },
+    {
+      "id": 27,
+      "order": "",
+      "content": " b) Không bố trí các khu vực để lưu giữ an toàn các loại chất thải phát sinh từ hoạt động phá dỡ tàu thuyền trước khi xử lý theo quy định của pháp luật về bảo vệ môi trường;",
+      "result": true
+    },
+    {
+      "id": 28,
+      "order": "",
+      "content": " c) Không xây dựng phương án khắc phục sự cố về môi trường xảy ra trong hoạt động phá dỡ tàu thuyền;",
+      "result": true
+    },
+    {
+      "id": 29,
+      "order": "",
+      "content": "d) Thực hiện phá dỡ tàu thuyền khi chưa được phép của cơ quan có thẩm quyền.",
+      "result": true
+    },
+    {
+      "id": 30,
+      "order": "",
+      "content": "3. Hình thức xử phạt bổ sung: Đình chỉ hoạt động kinh doanh có thời hạn từ 03 tháng đến 06 tháng đối với cơ sở có hành vi vi phạm quy định tại khoản 2 Điều này.",
+      "result": true
+    }
+  ],	

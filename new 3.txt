@@ -1,0 +1,16 @@
+duantv@fds.vn
+Abc@1234
+
+userfds / jV!9L*$f
+
+
+($F{extendDate}==null || $F{extendDate}==""?"...":" ngày " +$F{extendDate}.split("/")[0] + " tháng " +$F{extendDate}.split("/")[1] + " năm " +$F{extendDate}.split("/")[2])
+
+
+($F{receiveDate} != null ?( ($F{receiveDate}.split(" ")[0]).split("/")[0] + " tháng " + ($F{receiveDate}.split(" ")[0]).split("/")[1] + " năm " + ($F{receiveDate}.split(" ")[0]).split("/")[2]) : "")
+
+($F{dueDate} != null ?( $F{dueDate}.split(" ")[0]).split("/")[0] + " tháng " + ($F{dueDate}.split(" ")[0]).split("/")[1] + " năm " + ($F{dueDate}.split(" ")[0]).split("/")[2] : "")
+
+
+
+($F{extendDate} != null ?( ($F{extendDate}.split(" ")[0]).split("/")[0] + " tháng " + ($F{extendDate}.split(" ")[0]).split("/")[1] + " năm " + ($F{extendDate}.split(" ")[0]).split("/")[2]) : "")

@@ -1,0 +1,14 @@
+- Dashboard ( lấy đúng
+- cơ hội
+- Manager Database
+- Omnichannel 
+	- shopee
+	- Facebook
+- Respost
+- Setting 
+	
+- Đăng nhập (user pass, reset, email, sđt)
+-  Doanh số, đã gọi, chốt, thành công/không thành công (  biểu đồ + doanh số theo ngày)
+ + bảng table công việc ( công việc chung) 
+ + bảng user con gửi lên admin lên 
+ 

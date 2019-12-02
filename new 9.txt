@@ -1,0 +1,56 @@
+"section8": [
+      {
+        "id": 0,
+        order: 'Điều 52.',
+        content: 'Vi phạm quy định về an toàn Công-te-nơ',
+        result: true
+      },
+      {
+        "id": 1,
+        order: '',
+        content: '1. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:',
+        result: true
+      },
+      {
+        "id": 2,
+        order: '',
+        content: 'a) Không gắn Biển chứng nhận an toàn Công-te-nơ hoặc gắn biển không đúng quy cách hoặc làm sai lệch thông tin ghi trên Biển chứng nhận an toàn Công-te-nơ;',
+        result: true
+      },
+      {
+        "id": 3,
+        order: '',
+        content: 'b) Kích thước và nội dung của Biển chứng nhận an toàn Công-te-nơ không đầy đủ hoặc không đúng quy định;',
+        result: true
+      },
+      {
+        "id": 4,
+        order: '',
+        content: 'c) Không có giấy chứng nhận chất lượng an toàn kỹ thuật cho Công-te-nơ do cơ quan có thẩm quyền cấp theo quy định hoặc giấy chứng nhận chất lượng an toàn kỹ thuật cho Công-te-nơ được cấp đã hết hạn sử dụng.',
+        result: true
+      },
+      {
+        "id": 5,
+        order: '',
+        content: '2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:',
+        result: true
+      },
+      {
+        "id": 6,
+        order: '',
+        content: 'a) Công-te-nơ không được kiểm tra, bảo dưỡng đúng hạn;',
+        result: true
+      },
+      {
+        "id": 7,
+        order: '',
+        content: 'b) Sử dụng Công-te-nơ bị hư hỏng, có nguy cơ gây mất an toàn theo quy định.',
+        result: true
+      },
+      {
+        "id": 8,
+        order: '',
+        content: '3. Biện pháp khắc phục hậu quả: Đình chỉ hoạt động của Công-te-nơ có thời hạn từ 02 tháng đến 06 tháng đối với các hành vi vi phạm quy định tại khoản 1 và khoản 2 Điều này.',
+        result: true
+      }
+    ]

@@ -1,0 +1,290 @@
+<template>
+  <v-flex xs12 style="margin:auto"> 
+        <v-flex xs12 d-flex style="border-bottom: 1px solid #EEEEEE; background: #EEEEEE; height: 40px; " >
+            <v-flex xs6 style="margin-left: auto; ">
+                <blockquote class="font-weight-bold m-2 ml-4 " style="font-size: 20px;">TÀU SỬA CHỮA</blockquote>
+            </v-flex>
+            <v-flex xs6 style="margin-left: auto; ">
+                <v-flex class="" xs12 style="display: flex; ">
+                    <div class="search-top-right">
+                        <v-btn flat small class="mx-0" @click="refreshSearch()" style="text-transform: none; color: #007bff;"> <v-icon size="17" color="lavender">file_copy</v-icon>Thêm mới</v-btn>
+                        <span>|</span>
+                        <v-btn flat small class="mx-0" style="text-transform: none; color: #007bff;"> <v-icon size="20" color="red">close</v-icon>Xóa </v-btn>
+                        <span>|</span>
+                        <v-btn flat small class="mx-0" style="text-transform: none; color: #007bff;"> <v-icon size="20" color="green">refresh</v-icon>Refresh </v-btn>
+                        <span>|</span>
+                        <v-btn flat small class="mx-0" style="text-transform: none; color: #007bff;"> <v-icon size="17">save</v-icon>Lưu lại</v-btn>
+                        <span>|</span>
+                        <v-btn flat small class="mx-0" style="text-transform: none; color: #007bff;"> <v-icon size="17" >reply</v-icon>Quay lại</v-btn>
+                    </div>
+                </v-flex>
+            </v-flex>
+        </v-flex>
+        <v-from
+        ref="formSuaChua"
+        v-model="validFormSuaChua"
+        >
+            <v-flex xs12 d-flex class="mt-5">
+            <v-flex xs5 class="ml-5">
+                <v-flex xs12 class="px-0 py-0 mx-0 my-0" style="display: flex; height: 7%; " min>
+                <v-flex xs4 >Tên tàu <span>(*)</span>:</v-flex>
+                <v-flex xs12 class="">
+                    <v-text-field 
+                    class="px-0 py-0 mx-0 my-0" 
+                    background-color="#EEEEEE"  
+                    :rules="[v => !!v || 'Trường dữ liệu bắt buộc phải nhập']" 
+                    v-model="detaiSuaChua.NameOfShip"></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs12 class="" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Thuyền trưởng:</v-flex>
+                <v-flex xs12 class="">
+                    <v-text-field class="px-0 py-0 mx-0 my-0"  background-color="#EEEEEE" v-model="detaiSuaChua.ShipCaptain"></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs12 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Đại lý:</v-flex>
+                <v-flex xs12 class="ml-a">
+                    <v-text-field class="px-0 py-0 mx-0 my-0 " background-color="#EEEEEE" v-model="detaiSuaChua.ShipAgencyName"></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs12 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Chủ tàu:</v-flex>
+                <v-flex xs12 class="text-xs-left">
+                    <v-text-field min-width="100" class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" v-model="detaiSuaChua.ShipOwnerName" :rules="[v => !!v || 'Trường dữ liệu bắt buộc phải nhập']" ></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs12 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Người khai thác:</v-flex>
+                <v-flex xs12 class="">
+                    <v-text-field class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" hight="10" v-model="detaiSuaChua.ShipOperatorName"></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs9 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Quốc tịch:</v-flex>
+                <v-flex xs6 d-flex >
+                    <v-text-field class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" v-model="detaiSuaChua.flagStateOfShip" :rules="[v => !!v || 'Trường dữ liệu bắt buộc phải nhập']" ></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs9 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Hô hiệu:</v-flex>
+                <v-flex xs6 class="">
+                    <v-text-field class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" v-model="detaiSuaChua.CallSign" :rules="[v => !!v || 'Trường dữ liệu bắt buộc phải nhập']"></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs9 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Số IMO:</v-flex>
+                <v-flex xs6 class="">
+                    <v-text-field class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" v-model="detaiSuaChua.IMONumber" ></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs9 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Loại tàu:</v-flex>
+                <v-flex xs6 class="">
+                    <v-select  class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" autocomplete combobox v-model="detaiSuaChua.ShipTypeMT"></v-select>
+                </v-flex >
+            </v-flex >
+            <v-flex xs9 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Câp độ an ninh:</v-flex>
+                <v-flex xs6 class="">
+                    <v-select  
+                    class="px-0 py-0 mx-0 my-0" 
+                    background-color="#EEEEEE" 
+                    autocomplete combobox v-model="detaiSuaChua.SecurityLevelCode"></v-select>
+                </v-flex >
+            </v-flex >
+            <v-flex xs12 d-flex>
+                <v-flex xs6>
+                    <v-flex xs12 class="ht" style="display: flex; " min>
+                        <v-flex xs6 >Thời gian đến <span>(*)</span>:</v-flex>
+                        <v-flex xs6  class="">
+                            <datetime-picker  background-color="#EEEEEE" 
+                            :first-day="1" 
+                            :show-dst="false" 
+                            :show-hours="true" 
+                            :show-minutes="true" 
+                            :show-seconds="false" 
+                            required class="px-1 py-1 mx-0 my-0"
+                            v-model="detaiSuaChua.TimeOfDeparture"></datetime-picker>  
+                        </v-flex >
+                    </v-flex >
+                </v-flex>
+                <v-flex xs6>
+                    <v-flex xs12 class="ht" style="display: flex; height: 7%;" min>
+                        <v-flex xs5 class="ml-3 mt-1 text-xs-center">Thời gian đi <span>(*)</span>:</v-flex>
+                            <v-flex xs6 class="ml-3">
+                                <datetime-picker  background-color="#EEEEEE" 
+                                    :first-day="1" 
+                                    :show-dst="false" 
+                                    :show-hours="true" 
+                                    :show-minutes="true" 
+                                    :show-seconds="false" 
+                                    required class="px-1 py-1 mx-0 my-0"
+                                    v-model="detaiSuaChua."></datetime-picker>  
+                        </v-flex >
+                    </v-flex >
+                </v-flex>
+            </v-flex>
+            </v-flex>
+            <v-flex xs5 class="ml-5">
+                <v-flex xs4 class="mb-2" style="margin-top:-10px; font-size: 21px;">
+                <blockquote class="font-weight-bold">Sửa chữa</blockquote>
+            </v-flex>
+            <v-flex xs12 class="ht" style="display: flex; height: 7%;" min>
+                <v-flex xs4 >Số quyết định:</v-flex>
+                <v-flex xs12 class="">
+                    <v-text-field class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" v-model="detaiSuaChua." ></v-text-field>
+                </v-flex >
+            </v-flex >
+            <v-flex xs12 d-flex  style="display: flex; height: 7%;">
+                <v-flex xs6>
+                    <v-flex xs12 class="ht" style="display: flex; " min>
+                        <v-flex xs6 >Từ ngày <span>(*)</span>:</v-flex>
+                        <v-flex xs6  class="">
+                            <datetime-picker  background-color="#EEEEEE" 
+                            :first-day="1" 
+                            :show-dst="false" 
+                            :show-hours="false" 
+                            :show-minutes="false" 
+                            :show-seconds="false" 
+                            required class="px-1 py-1 mx-0 my-0"
+                            v-model="detaiSuaChua."></datetime-picker>  
+                        </v-flex >
+                    </v-flex >
+                </v-flex>
+                <v-flex xs6>
+                    <v-flex xs12 class="ht" style="display: flex; height: 7%;" min>
+                        <v-flex xs5 class="ml-3 mt-1 text-xs-center">Đến ngày <span>(*)</span>:</v-flex>
+                            <v-flex xs6 class="ml-3 ">
+                                <datetime-picker  background-color="#EEEEEE" 
+                                    :first-day="1" 
+                                    :show-dst="false" 
+                                    :show-hours="false" 
+                                    :show-minutes="false" 
+                                    :show-seconds="false" 
+                                    required class="px-1 py-1 mx-0 my-0"
+                                    v-model="detaiSuaChua."></datetime-picker>  
+                        </v-flex >
+                    </v-flex >
+                </v-flex>
+            </v-flex>
+            <v-flex xs12 class="ht mt-1" style="display: flex; height: 18%; " min>
+                <v-flex xs4 >Lý do sửa chữa <span>(*)</span>:</v-flex>
+                <v-flex xs12 class="">
+                  <v-textarea rows="3" font="13"  class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" v-model="detaiSuaChua." ></v-textarea>
+                </v-flex >
+            </v-flex >
+            <v-flex xs12 class="ht" style="display: flex;" min>
+                <v-flex xs4 >Đơn vị sửa chữa:</v-flex>
+                <v-flex xs12 class="">
+                    <v-text-field    class="px-0 py-0 mx-0 my-0" background-color="#EEEEEE" v-model="detaiSuaChua."></v-text-field>
+                </v-flex >
+            </v-flex >
+            </v-flex>
+        </v-flex>
+        </v-from>
+    </v-flex>
+</template>
+<script>
+import DatetimePicker from './DatetimePicker.vue'
+export default {
+  data: () => ({
+    detaiSuaChua: {},
+    validFormSuaChua: {},
+    shipTypeItems: []
+  }),
+  components: {
+    'datetime-picker': DatetimePicker
+  },
+  create () {
+    var vm = this
+    vm.loadShipType()
+    if (vm.id) {
+      vm.loadSuaChua()
+    } else {
+      vm.detaiSuaChua = {}
+    }
+  },
+  mrthods: {
+    loadShipType: function () {
+      var vm = this
+      vm.$store.dispatch('loadShipType').then(function (result) {
+        vm.shipTypeItems = result
+      }).catch(function (xhr) {
+        console.log(xhr)
+      })
+    },
+    loadPorts: function () {
+      var vm = this
+      vm.$store.dispatch('loadPorts').then(function (result) {
+        vm.shipTypeItems = result
+      }).catch(function (xhr) {
+        console.log(xhr)
+      })
+    },
+    loadSuaChua: function () {
+      var vm = this
+      let data = {
+        'id': vm.id
+      }
+      vm.$store.dispatch('loadDetailSuaChua', data).then(function (result) {
+      }).catch(function (xhr) {
+        console.log(xhr)
+      })
+    },
+    themSuaChua: function () {
+      var vm = this
+      vm.detaiSuaChua['id'] = ''
+      if (vm.$refs.formSuaChua.validate()) {
+        vm.$store.dispatch('addSuaChua', vm.detaiSuaChua).then(function (result) {
+          vm.detaiSuaChua = result
+        }).catch(function (xhr) {
+          console.log(xhr)
+        })
+      }
+    },
+    deleteSuaChua: function () {
+      var vm = this
+      let data = {
+        id: vm.id
+      }
+      vm.$store.dispatch('deleteSuaChua', data).then(function (result) {
+      }).catch(function (xhr) {
+        console.log(xhr)
+      })
+    },
+    lamMoi: function () {
+      var vm = this
+      vm.detaiSuaChua = {}
+    },
+    luuSuaChua: function () {
+      var vm = this
+      if (vm.$refs.formSuaChua.validate()) {
+        vm.$store.dispatch('editSuaChua', vm.detaiSuaChua).then(function (result) {
+          vm.detaiSuaChua = result
+        }).catch(function (xhr) {
+          console.log(xhr)
+        })
+      }
+    },
+    quayLai: function () {
+      var vm = this
+      vm.$router.push({
+        path: '' + vm.type + '/' + vm.documentTypeCode + '/' + vm.documentStatusCode + '/' + vm.code
+      })
+    }
+  }
+}
+</script>
+<style>
+.flex.xs4{
+    font-size: 15px;
+}
+span{
+  color: red;
+}
+input{
+    font-size: 13px;
+    height: 25px;
+}
+</style>

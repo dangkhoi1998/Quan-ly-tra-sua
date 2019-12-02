@@ -1,0 +1,22 @@
+bỏ sung title GIỮ TÀU thêm v-tab
+dữ liệu hiển thị dạng chữ hoa ( TÊN TÀU )
+hover ô text background thay đổi màu nền di chuyển chuột vào 
+QUỐC TỊCH , HÔ HIỆU, SÔ IMO, CẤP ĐỘ AN NINH, LOẠI TÀU width= 50%
+dd:MM:yyyy hh:mm  (THỜI GIAN ĐÊN, THỜI GIAN ĐI,Ngày bắt giữ, Thời gian giải tỏa:) cho width = 1/3 hiện tại
+dãn dòng các ô text hẹp 
+
+SỬA CHỮA
+- bỏ sung title TÀU SỬA CHỮA thêm v-tab
+- thêm date (dd:MM:yyyy) vào TỪ NGÀY, ĐẾN NGÀY ( width = 1/3 hiện tại )
+- dãn dòng các ô text hẹp
+- ĐƠN VỊ SELECT
+THẢ XUỒNG
+- dd:MM:yyyy hh:mm  (THỜI GIAN BẮT ĐẦU, thòi gian kết thúc) cho width = 1/3 hiện tại  text để trên 1 dòng
+- KHU VỰC THẢ XUÔNG selectbox
+
+* Thêm tất cả các title của các from
+
+KHÁNH CÁO
+- Thêm 2 title "Kháng nghị hải hải"
+- Cấp độ an ninh width = 50%
+- dd:MM:yyyy hh:mm  (THỜI gian đến, thòi gian đi, kháng cáo ) cho width = 1/3 hiện tại  text để trên 1 dòng

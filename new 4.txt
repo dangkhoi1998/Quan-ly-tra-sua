@@ -1,0 +1,5 @@
+work_name: this.congviec.work_name,
+          id_department: this.congviec.id_department,
+          id_empl: this.congviec.id_empl,
+          prioritize: this.congviec.prioritize,
+          noidung: this.congviec.noidung,

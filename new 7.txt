@@ -1,0 +1,1286 @@
+"section3": [
+    {
+      "id": 0,
+      "order": "Điều 31.",
+      "content": "Vi phạm quy định về thủ tục đến cảng biển hoặc quá cảnh",
+      "result": true
+    },
+    {
+      "id": 1,
+      "order": "",
+      "content": "1. Đối với hành vi vi phạm của tàu thuyền khi đến cảng hoặc quá cảnh không thực hiện việc thông báo, xác báo theo quy định hoặc thực hiện việc thông báo, xác báo chậm hơn thời gian quy định; tàu thuyền đến vị trí dự kiến đến cảng hoặc đến vị trí đón, trả hoa tiêu để vào cảng hoặc quá cảnh chậm hơn thời gian đã xác báo; tàu thuyền đến cảng không thực hiện khai báo an ninh tàu biển cho Cảng vụ hàng hải theo quy định hoặc thực hiện việc khai báo an ninh tàu biển chậm hơn thời gian quy định sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+	"id": 2,
+      "order": "",
+      "content": "a) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+	"id": 3,
+      "order": "",
+      "content": "b) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+	"id": 4,
+      "order": "",
+      "content": "c) Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;",
+      "result": true
+    },
+    {
+	"id": 5,
+      "order": "",
+      "content": "d) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+	"id": 6,
+      "order": "",
+      "content": "2. Đối với hành vi tàu thuyền đến cảng hoặc quá cảnh mà không làm thủ tục theo quy định sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+	"id": 7,
+      "order": "",
+      "content": "a) Phạt tiền từ 1.000.000 đồng đến 5.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+	"id": 8,
+      "order": "",
+      "content": " b) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+	"id": 9, 
+      "order": "",
+      "content": "c) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;",
+      "result": true
+    },
+    {
+	"id": 10,
+      "order": "",
+      "content": " d) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+	"id": 11,
+      "order": "Điều 32.",
+      "content": "Vi phạm quy định về thủ tục vào, rời cảng biển hoặc quá cảnh",
+      "result": true
+    },
+    {
+	"id": 12,
+      "order": "",
+      "content": "1. Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với hành vi khai báo không đủ hoặc sai một trong các thông tin trong thông báo, xác báo tàu đến, rời cảng hoặc bản khai chung hoặc danh sách thuyền viên, danh sách hành khách theo quy định.",
+      "result": true
+    },
+    {
+	"id": 13, 
+      "order": "",
+      "content": "2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi làm thủ tục cho tàu thuyền vào, rời cảng biển hoặc quá cảnh chậm hơn thời gian quy định.",
+      "result": true
+    },
+    {
+	"id": 14,
+      "order": "",
+      "content": "3. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+	"id": 15
+      "order": "",
+      "content": "a) Thiếu một trong các giấy tờ khi làm thủ tục vào, rời cảng hoặc quá cảnh theo quy định;",
+      "result": true
+    },
+    {
+	"id": 16
+      "order": "",
+      "content": "b) Không cung cấp hoặc cung cấp không đầy đủ giấy tờ về hàng hóa nguy hiểm được vận chuyển trên tàu theo quy định;",
+      "result": true
+    },
+    {
+	"id": 17,
+      "order": "",
+      "content": "c) Không có bản chính hoặc bản sao công chứng bảo lãnh ngân hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với tàu biển để chi trả chi phí hồi hương cho thuyền viên theo quy định;",
+      "result": true
+    },
+    {
+	"id": 18
+      "order": "",
+      "content": "4. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi tự ý bốc dỡ hàng hóa hoặc cho thuyền viên, hành khách hoặc những người không có nhiệm vụ lên tàu trước khi tàu làm xong thủ tục nhập cảnh hoặc rời tàu sau khi đã làm xong thủ tục xuất cảnh theo quy định.",
+      "result": true
+    },
+    {
+	"id":19,
+      "order": "",
+      "content": "5. Đối với hành vi không có giấy phép rời cảng cuối cùng theo quy định hoặc cố tình rời cảng khi chưa được phép của cơ quan có thẩm quyền sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+	"id": 20,
+      "order": "",
+      "content": " a) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+	"id": 21,
+      "order": "",
+      "content": " b) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+	"id": 22,
+      "order": "",
+      "content": " c) Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;",
+      "result": true
+    },
+    {
+	"id": 23,
+      "order": "",
+      "content": "d) Phạt tiền từ 40.000.000 đồng đến 80.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+	"id": 24,
+      "order": "",
+      "content": "6. Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với hành vi của tàu thuyền nước ngoài tham gia vận tải nội địa hoặc thực hiện các hoạt động đặc thù khi chưa được cơ quan có thẩm quyền cho phép theo quy định.",
+      "result": true
+    },
+    {
+	"id": 25,
+      "order": "",
+      "content": "7. Hình thức xử phạt bổ sung: Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng có thời hạn từ 01 tháng đến 06 tháng đối với hành vi vi phạm quy định tại khoản 5 Điều này.",
+      "result": true
+    },
+    {
+	"id": 26,
+      "order": "",
+      "content": "8. Biện pháp khắc phục hậu quả:",
+      "result": true
+    },
+    {
+	"id": 27,
+      "order": "",
+      "content": " a) Buộc khai báo bổ sung và đính chính thông tin đối với hành vi vi phạm quy định tại khoản 1 Điều này;",
+      "result": true
+    },
+    {
+	"id": 28,
+      "order": "",
+      "content": "  b) Buộc thanh toán phí, lệ phí hàng hải và các khoản tiền liên quan khác theo quy định đối với hành vi vi phạm quy định tại khoản 5 Điều này.",
+      "result": true
+    },
+    {
+	"id": 29,
+      "order": "Điều 33. ",
+      "content": "Vi phạm quy định về an toàn, an ninh, trật tự, vệ sinh đối với các hoạt động liên quan đến tàu thuyền",
+      "result": true
+    },
+    {
+	"id": 30,
+      "order": "",
+      "content": "1. Phạt cảnh cáo hoặc phạt tiền từ 100.000 đồng đến 300.000 đồng đối với hành vi bơi lội hoặc làm mất trật tự công cộng trong khu vực cảng.",
+      "result": true
+    },
+    {
+	"id": 31,
+      "order": "",
+      "content": "2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+	"id": 32,
+      "order": "",
+      "content": "a) Kéo còi hoặc dùng loa điện để thông tin cho trường hợp không phải là cấp cứu hoặc báo động khẩn cấp theo quy định;",
+      "result": true
+    },
+    {
+	"id": 33,
+      "order": "",
+      "content": " b) Tàu thuyền nước ngoài treo cờ lễ, cờ tang hoặc kéo còi trong các dịp nghi lễ của quốc gia tàu mang cờ mà không thông báo trước cho Cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+	"id": 34,
+      "order": "",
+      "content": "c) Tổ chức bơi lội trong vùng nước cảng khi chưa được chấp thuận của Cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+	"id": 35,
+      "order": "",
+      "content": " d) Treo cờ hiệu không đúng quy định.",
+      "result": true
+    },
+    {
+	"id": 36,
+      "order": "",
+      "content": "3. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+	"id": 37,
+      "order": "",
+      "content": " a) Không treo hoặc treo Quốc kỳ Việt Nam không đúng quy định;",
+      "result": true
+    },
+    {
+	"id": 38,
+      "order": "",
+      "content": " b) Không ghi hoặc không ghi đầy đủ, chính xác nội dung của nhật ký hàng hải, nhật ký máy hoặc các loại nhật ký khác theo quy định.",
+      "result": true
+    },
+    {
+	"id": 39,
+      "order": "",
+      "content": "4. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+	"id": 40,
+      "order": "",
+      "content": "a) Để các trang thiết bị, tài sản của tàu thuyền hoặc của thuyền viên trên mặt cầu cảng không đúng nơi quy định;",
+      "result": true
+    },
+    {
+	"id": 41,
+      "order": "",
+      "content": " b) Tiến hành sửa chữa, thử máy, thử còi khi chưa được phép của Cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+	"id": 42,
+      "order": "",
+      "content": " c) Không trực kênh VHF hoặc sử dụng kênh VHF sai quy định;",
+      "result": true
+    },
+    {
+	"id": 43,
+      "order": "",
+      "content": "d) Tiến hành hun chuột, khử trùng không đúng nơi quy định;",
+      "result": true
+    },
+    {
+	"id": 44,
+      "order": "",
+      "content": " đ) Không có dụng cụ chắn chuột theo quy định hoặc sử dụng dụng cụ chắn chuột không đúng quy định;",
+      "result": true
+    },
+    {
+	"id": 45,
+      "order": "",
+      "content": "e) Sử dụng xuồng, phao bè của tàu khi chưa được phép của Cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+	"id": 46,
+      "order": "",
+      "content": " g) Không thực hiện chế độ trực ca theo quy định;",
+      "result": true
+    },
+    {
+	"id":47,
+      "order": "",
+      "content": "      h) Không bố trí hoặc bố trí sĩ quan an ninh tàu biển không đúng quy định;",
+      "result": true
+    },
+    {
+	"id": 48,
+      "order": "",
+      "content": "i) Không duy trì cấp độ an ninh tàu theo quy định;",
+      "result": true
+    },
+    {
+	"id": 49,
+      "order": "",
+      "content": "      k) Không duy trì hoạt động 24/24 giờ của thiết bị an ninh tàu theo quy định; thông báo hoặc phát không đúng với tình trạng an ninh thực tế của tàu biển;",
+      "result": true
+    },
+    {
+	"id": 50,
+      "order": "",
+      "content": "      l) Không có kế hoạch an ninh tàu biển theo quy định đối với tàu biển chở khách, tàu biển chở hàng từ 500 GT trở lên và giàn di động mang cờ quốc tịch Việt Nam chạy tuyến quốc tế;",
+      "result": true
+    },
+    {
+	"id": 51
+      "order": "",
+      "content": "      m) Để tàu thuyền rê neo, kéo neo ngầm dưới nước khi đang hoạt động trong luồng, kênh đào, vùng nước trước cầu cảng.",
+      "result": true
+    },
+    {
+	"id": 52
+      "order": "",
+      "content": "5. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+  "id": 53,
+      "order": "",
+      "content": "      a) Điều động tàu thuyền vào, rời cảng biển hoặc cập, rơi cầu cảng mà thuyền trưởng không có mặt ở buồng lái theo quy định;",
+      "result": true
+    },
+    {
+      "id": 54,
+      "order": "",
+      "content": "      b) Tiến hành các hoạt động mò, lặn hoặc các công việc khác ngầm dưới nước tại vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải hoặc tiến hành các công việc đó không có báo hiệu cảnh báo theo quy định;",
+      "result": true
+    },
+    {
+      "id": 55,
+      "order": "",
+      "content": "      c) Tổ chức thi đấu thể thao hoặc các hoạt động tập trung nhiều phương tiện trong vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+      "id": 56,
+      "order": "",
+      "content": "      d) Sử dụng tàu thuyền thể thao, du lịch hoạt động trong vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+      "id": 57,
+      "order": "",
+      "content": "      đ) Không sử dụng hoặc sử dụng không phù hợp các báo hiệu theo quy định;",
+      "result": true
+    },
+    {
+      "id": 58,
+      "order": "",
+      "content": "      e) Tàu thuyền không ghi rõ tên hoặc số hiệu, số IMO, cảng đăng ký, vạch mơn nước theo quy định;",
+      "result": true
+    },
+    {
+      "id": 59,
+      "order": "",
+      "content": "      g) Không lắp đặt, duy trì tình trạng kỹ thuật của thiết bị giám sát hành trình của tàu cao tốc hoặc lắp đặt mà không bật thiết bị giám sát hành trình của tàu cao tốc theo quy định.",
+      "result": true
+    },
+    {
+      "id": 60,
+      "order": "",
+      "content": "6. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 61,
+      "order": "",
+      "content": "      a) Không thông báo cho Cảng vụ hàng hải về sự cố, tai nạn hàng hải do tàu mình gây ra hoặc vi phạm quy định khác về báo cáo và điều tra tai nạn hàng hải;",
+      "result": true
+    },
+    {
+      "id": 62,
+      "order": "",
+      "content": "b) Không trang bị đủ trang thiết bị hàng hải trên tàu thuyền theo quy định hoặc có nhưng không hoạt động, không sử dụng được;",
+      "result": true
+    },
+    {
+      "id": 63,
+      "order": "",
+      "content": " c) Không duy trì liên lạc với Cảng vụ hàng hải qua VHF trên kênh đã được thông báo hoặc các thiết bị thông tin liên lạc khác;",
+      "result": true
+    },
+    {
+      "id": 64,
+      "order": "",
+      "content": "d) Không duy trì hoạt động của thiết bị nhận dạng tự động (AIS) theo quy định;",
+      "result": true
+    },
+    {
+      "id": 65,
+      "order": "",
+      "content": "đ) Không duy trì hoạt động của thiết bị nhận dạng và truy theo tầm xa (LRIT) theo quy định;",
+      "result": true
+    },
+    {
+      "id": 66,
+      "order": "",
+      "content": " e) Không duy trì hoạt động của phao vô tuyến định vị vị trí khẩn cấp (EPIRB), thiết bị phát đáp radar hỗ trợ tìm kiếm cứu nạn (SART) theo quy định; phao EPIRB không hoạt động hoặc báo hiệu sai lệch dữ liệu, thông tin đã được đăng ký;",
+      "result": true
+    },
+    {
+      "id": 67,
+      "order": "",
+      "content": " g) Thiếu hoặc không có trang thiết bị cứu sinh hoặc bố trí, lắp đặt trang thiết bị cứu sinh của tàu thuyền không đúng quy định hoặc trang thiết bị cứu sinh không ở trạng thái sẵn sàng hoạt động theo quy định;",
+      "result": true
+    },
+    {
+      "id": 68,
+      "order": "",
+      "content": "h) Không tuân theo quy định khi tàu thuyền hành trình hoặc tránh, vượt nhau trên luồng quy định cấm tránh, vượt;",
+      "result": true
+    },
+    {
+      "id": 69,
+      "order": "",
+      "content": "i) Điều động tàu thuyền chạy quá tốc độ cho phép tại khu vực có quy định giới hạn tốc độ;",
+      "result": true
+    },
+    {
+      "id": 70,
+      "order": "",
+      "content": " k) Điều động tàu thuyền chạy thử mà chưa được phép của cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+      "id": 71,
+      "order": "",
+      "content": "l) Khai không đúng nội dung yêu cầu ghi tại giấy đăng ký của tàu thuyền.",
+      "result": true
+    },
+    {
+      "id": 72,
+      "order": "",
+      "content": "7. Phạt tiền từ 15.000.000 đồng đến 25.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 73,
+      "order": "",
+      "content": "a) Điều động tàu thuyền vào, rời cảng biển hoặc cập, rời cầu cảng, bến phao, khu nước, vùng nước gây tai nạn hàng hải ít nghiêm trọng mà thuyền trưởng không có mặt ở buồng lái hoặc tàu thuyền không tuân theo quy định khi hành trình, tránh, vượt nhau trên luồng hàng hải gây tai nạn hàng hải ít nghiêm trọng;",
+      "result": true
+    },
+    {
+      "id": 74,
+      "order": "",
+      "content": " b) Đi ngược chiều trong luồng quy định một chiều.",
+      "result": true
+    },
+    {
+      "id": 75,
+      "order": "",
+      "content": "8. Phạt tiền từ 25.000.000 đồng đến 35.000.000 đồng đối với hành vi điều động tàu thuyền vào, rời cảng biển hoặc cập, rời cầu cảng, bến phao, khu nước, vùng nước gây tai nạn hàng hải nghiêm trọng mà thuyền trưởng không có mặt ở buồng lái hoặc tàu thuyền không tuân theo quy định khi hành trình, tránh, vượt nhau trên luồng hàng hải gây tai nạn hàng hải nghiêm trọng.",
+      "result": true
+    },
+    {
+      "id": 76,
+      "order": "",
+      "content": "9. Phạt tiền từ 35.000.000 đồng đến 45.000.000 đồng đối với hành vi điều động tàu thuyền vào, rời cảng biển hoặc cập, rời cầu cảng, bến phao, khu nước, vùng nước gây tai nạn hàng hải đặc biệt nghiêm trọng mà thuyền trưởng không có mặt ở buồng lái theo quy định hoặc tàu thuyền không tuân theo quy định khi hành trình, tránh, vượt nhau trên luồng hàng hải gây tai nạn hàng hải đặc biệt nghiêm trọng.",
+      "result": true
+    },
+    {
+      "id": 77,
+      "order": "",
+      "content": "10. Đối với hành vi tàu thuyền hoạt động không đúng vùng được phép hoạt động theo quy định sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 78,
+      "order": "",
+      "content": " a) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+      "id": 79,
+      "order": "",
+      "content": "  b) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+      "id": 80,
+      "order": "",
+      "content": "c) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;",
+      "result": true
+    },
+    {
+      "id": 81,
+      "order": "",
+      "content": "d) Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+      "id": 82,
+      "order": "",
+      "content": "11. Phạt tiền từ 40.000.000 đồng đến 60.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 83,
+      "order": "",
+      "content": "a) Bỏ trốn sau khi gây tai nạn hàng hải;",
+      "result": true
+    },
+    {
+      "id": 84,
+      "order": "",
+      "content": "b) Không cung cấp hoặc cung cấp không đầy đủ, không trung thực các tài liệu, vật chứng liên quan khi có yêu cầu của cơ quan có thẩm quyền trong quá trình điều tra tai nạn hàng hải.",
+      "result": true
+    },
+    {
+      "id": 85,
+      "order": "",
+      "content": "12. Hình thức xử phạt bổ sung:",
+      "result": true
+    },
+    {
+      "id": 86,
+      "order": "",
+      "content": " a) Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng có thời hạn từ 01 tháng đến 03 tháng đối với hành vi vi phạm quy định tại khoản 7 Điều này;",
+      "result": true
+    },
+    {
+      "id": 87,
+      "order": "",
+      "content": "   b) Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng có thời hạn từ 03 tháng đến 06 tháng đối với hành vi vi phạm quy định tại khoản 8 Điều này;",
+      "result": true
+    },
+    {
+      "id": 88,
+      "order": "",
+      "content": "c) Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng có thời hạn từ 06 tháng đến 12 tháng đối với hành vi vi phạm quy định tại khoản 9 và điểm a khoản 11 Điều này.",
+      "result": true
+    },
+    {
+      "id": 89,
+      "order": "",
+      "content": "a) Buộc di chuyển chướng ngại vật do vi phạm quy định tại điểm a khoản 4 Điều này;",
+      "result": true
+    },
+    {
+      "id": 90,
+      "order": "",
+      "content": "b) Buộc di rời khỏi vùng hoạt động cho phù hợp với cấp tàu hoạt động đối với hành vi được quy định tại khoản 10 Điều này.",
+      "result": true
+    },
+    {
+      "id": 91,
+      "order": "Điều 34.",
+      "content": "Vi phạm quy định về phòng, chống cháy, nổ đối với tàu thuyền",
+      "result": true
+    },
+    {
+      "id": 92,
+      "order": "",
+      "content": "1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi hút thuốc ở nơi cấm hút thuốc hoặc đối với các hành vi vô ý có thể gây cháy, nổ trên tàu thuyền.",
+      "result": true
+    },
+    {
+      "id": 93,
+      "order": "",
+      "content": "2. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 94,
+      "order": "",
+      "content": " a) Không có các dấu hiệu cảnh báo hoặc chỉ dẫn ở những nơi dễ cháy, dễ nổ theo quy định;",
+      "result": true
+    },
+    {
+      "id": 95,
+      "order": "",
+      "content": " b) Không có sơ đồ hệ thống kiểm soát cháy, bảng phân công chữa cháy hoặc bảng chỉ dẫn thao tác ở những vị trí trên tàu theo quy định;",
+      "result": true
+    },
+    {
+      "id": 96,
+      "order": "",
+      "content": " c) Trang thiết bị chữa cháy đặt không đúng vị trí quy định trên tàu thuyền;",
+      "result": true
+    },
+    {
+      "id": 97,
+      "order": "",
+      "content": "d) Thuyền viên không sử dụng thành thạo các trang thiết bị chữa cháy của tàu thuyền;",
+      "result": true
+    },
+    {
+      "id": 98,
+      "order": "",
+      "content": "đ) Sử dụng trang thiết bị chữa cháy của tàu không đúng quy định;",
+      "result": true
+    },
+    {
+      "id": 99,
+      "order": "",
+      "content": " e) Không thực hiện đúng quy trình bảo quản, bảo dưỡng trang thiết bị phòng chống cháy, nổ.",
+      "result": true
+    },
+    {
+      "id": 100,
+      "order": "",
+      "content": "3. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 101,
+      "order": "",
+      "content": "a) Không trang bị đầy đủ các trang thiết bị phòng, chống cháy nổ theo quy định hoặc trang thiết bị phòng, chống cháy, nổ không sử dụng được hoặc hết hạn sử dụng;",
+      "result": true
+    },
+    {
+      "id": 102,
+      "order": "",
+      "content": " b) Không có kế hoạch ứng cứu phòng, chống cháy, nổ trong trường hợp khẩn cấp;",
+      "result": true
+    },
+    {
+      "id": 103,
+      "order": "",
+      "content": "c) Tiến hành các công việc có phát ra tia lửa ở trên boong tàu, hầm hàng, buồng máy khi chưa được phép của Cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+      "id": 104,
+      "order": "",
+      "content": " d) Sử dụng phương tiện chuyên dùng chữa cháy vào mục đích khác;",
+      "result": true
+    },
+    {
+      "id": 105,
+      "order": "",
+      "content": "đ) Không có trang thiết bị chữa cháy hoặc trang thiết bị chữa cháy không phù hợp hoặc không ở trạng thái sẵn sàng hoạt động hoặc hết hạn sử dụng theo quy định.",
+      "result": true
+    },
+    {
+      "id": 106,
+      "order": "",
+      "content": "4. Phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng đối với hành vi thực hiện chậm trễ hoặc không thực hiện mệnh lệnh của Cảng vụ hàng hải về tham gia chữa cháy ở cầu cảng, vùng nước cảng biển.",
+      "result": true
+    },
+    {
+      "id": 107,
+      "order": "Điều 35.",
+      "content": "Vi phạm quy định về bảo vệ môi trường do tàu thuyền gây ra",
+      "result": true
+    },
+    {
+      "id": 108,
+      "order": "",
+      "content": "1. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 109,
+      "order": "",
+      "content": " a) Không trang bị các thiết bị chứa, phân loại rác theo quy định hoặc không dự trữ rác đúng nơi quy định;",
+      "result": true
+    },
+    {
+      "id": 110,
+      "order": "",
+      "content": "2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi không bố trí hoặc bố trí người trực không đủ tiêu chuẩn để tiếp nhận nhiên liệu trên tàu.",
+      "result": true
+    },
+    {
+      "id": 111,
+      "order": "",
+      "content": "3. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 112,
+      "order": "",
+      "content": " a) Bơm, xả các loại rác hoặc nước dằn tàu, nước có cặn bẩn từ tàu xuống cầu cảng hoặc vùng nước cảng biển không đúng quy định;",
+      "result": true
+    },
+    {
+      "id": 113,
+      "order": "",
+      "content": " b) Tiến hành bơm chuyển nhiên liệu giữa tàu thuyền và phương tiện khác khi chưa được phép của Cảng vụ hàng hải theo quy định;",
+      "result": true
+    },
+    {
+      "id": 114,
+      "order": "",
+      "content": "c) Không có đủ các trang thiết bị phân ly dầu nước theo quy định hoặc có trang thiết bị nhưng không sử dụng được;",
+      "result": true
+    },
+    {
+      "id": 115,
+      "order": "",
+      "content": "  d) Không chấp hành một trong những quy trình, quy tắc an toàn kỹ thuật khi tiếp nhận nhiên liệu;",
+      "result": true
+    },
+    {
+      "id": 116,
+      "order": "",
+      "content": " e) Sử dụng lò đốt rác, lò đốt chất thải trong khu vực cảng biển hoặc sử dụng dầu nhiên liệu chạy máy chính, máy đèn có hàm lượng lưu huỳnh vượt quá chỉ số mức Nox, SO2 cho phép.",
+      "result": true
+    },
+    {
+      "id": 117,
+      "order": "",
+      "content": "4. Phạt tiền từ 80.000.000 đồng đến 90.000.000 đồng đối với hành vi đổ bùn, đất, chất thải từ nạo vét không đúng vị trí quy định.",
+      "result": true
+    },
+    {
+      "id": 118,
+      "order": "",
+      "content": "5. Phạt tiền từ 90.000.000 đồng đến 100.000.000 đồng đối với hành vi đổ bùn đất, chất thải từ nạo vét không đúng vị trí quy định trong phạm vi luồng hàng hải, vùng nước trước cầu, bến cảng, khu neo đậu, khu chuyển tải, vùng đón trả hoa tiêu, vùng kiểm dịch.",
+      "result": true
+    },
+    {
+      "id": 119,
+      "order": "",
+      "content": "6. Hình thức xử phạt bổ sung:",
+      "result": true
+    },
+    {
+      "id": 120,
+      "order": "",
+      "content": "a) Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng có thời hạn từ 03 tháng đến 06 tháng đối với hành vi vi phạm quy định tại khoản 4 Điều này;",
+      "result": true
+    },
+    {
+      "id": 121,
+      "order": "",
+      "content": "b) Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng có thời hạn từ 06 tháng đến 12 tháng đối với hành vi vi phạm quy định tại khoản 5 Điều này.",
+      "result": true
+    },
+    {
+      "id": 122,
+      "order": "",
+      "content": "7. Biện pháp khắc phục hậu quả: Buộc thực hiện những biện pháp khắc phục ô nhiễm môi trường theo quy định đối với các hành vi vi phạm quy định tại điểm a khoản 3; khoản 4 và khoản 5 Điều này.",
+      "result": true
+    },
+    {
+      "id": 123,
+      "order": "Điều 36. ",
+      "content": "Vi phạm quy định về an toàn sinh mạng trên tàu thuyền",
+      "result": true
+    },
+    {
+      "id": 124,
+      "order": "",
+      "content": "1. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 125,
+      "order": "",
+      "content": "a) Không có bảng phân công nhiệm vụ trong tình huống khẩn cấp tại các vị trí theo quy định hoặc có bảng phân công nhiệm vụ nhưng không phù hợp với thuyền bộ của tàu hoặc bảng quy định đã bị hư hỏng;",
+      "result": true
+    },
+    {
+      "id": 126,
+      "order": "",
+      "content": "b) Không có các bảng chỉ dẫn thao tác các thiết bị cứu sinh, cứu thủng tàu theo quy định hoặc các bảng chỉ dẫn đã bị hư hỏng;",
+      "result": true
+    },
+    {
+      "id": 127,
+      "order": "",
+      "content": " c) Không có phiếu trách nhiệm cá nhân khi báo động ở những nơi quy định trên tàu hoặc phiếu trách nhiệm cá nhân không phù hợp với thuyền bộ của tàu;",
+      "result": true
+    },
+    {
+      "id": 128,
+      "order": "",
+      "content": "d) Thuyền viên không sử dụng thành thạo các trang thiết bị cứu sinh, cứu thủng của tàu;",
+      "result": true
+    },
+    {
+      "id": 129,
+      "order": "",
+      "content": "đ) Thuyền trưởng không tổ chức thực tập cứu sinh, chữa cháy theo quy định.",
+      "result": true
+    },
+    {
+      "id": 130,
+      "order": "",
+      "content": "2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 131,
+      "order": "",
+      "content": " a) Cầu thang mạn không có lưới bảo hiểm hoặc đèn chiếu sáng theo quy định;",
+      "result": true
+    },
+    {
+      "id": 132,
+      "order": "",
+      "content": " b) Sử dụng trang thiết bị cứu sinh, cứu thủng, phòng, chống cháy, nổ của tàu không đúng quy định.",
+      "result": true
+    },
+    {
+      "id": 133,
+      "order": "",
+      "content": "3. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với thuyền viên trong ca trực có nồng độ cồn trong máu hoặc hơi thở vượt quá 50 miligam/100 mililít máu hoặc vượt quá 0,25 miligam/01 lít khí thở hoặc có sử dụng các chất kích thích khác mà luật cấm sử dụng.",
+      "result": true
+    },
+    {
+      "id": 134,
+      "order": "",
+      "content": "4. Đối với hành vi tàu thuyền không bố trí đủ định biên an toàn tối thiểu hoặc vượt quá mức cho phép của trang thiết bị cứu sinh trên tàu theo quy định sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 135,
+      "order": "",
+      "content": " a) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+      "id": 136,
+      "order": "",
+      "content": " b) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+      "id": 137,
+      "order": "",
+      "content": "c) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;",
+      "result": true
+    },
+    {
+      "id": 138,
+      "order": "",
+      "content": " d) Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+      "id": 139,
+      "order": "",
+      "content": "5. Đối với hành vi chở hàng quá tải trọng quy định của tàu thuyền có tổng dung tích dưới 200 GT sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 140,
+      "order": "",
+      "content": " a) Phạt cảnh cáo đối với hành vi chở hàng vượt đến dưới 01% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 141,
+      "order": "",
+      "content": " b) Phạt tiền từ 1.000.000 đống đến 3.000.000 đồng đối với hành vi chở hàng vượt từ 01% đến dưới 05% so với trọng tải cho phép; ",
+      "result": true
+    },
+    {
+      "id": 142,
+      "order": "",
+      "content": "c) Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi chở hàng vượt từ 05% đến dưới 10% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 143,
+      "order": "",
+      "content": "d) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi chở hàng vượt trên từ 10% trở lên so với trọng tải cho phép.",
+      "result": true
+    },
+    {
+      "id": 144,
+      "order": "",
+      "content": "6. Đối với hành vi chở hàng vượt quá tải trọng quy định của tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 145,
+      "order": "",
+      "content": "a) Phạt cảnh cáo đối với hành vi chở hàng vượt đến dưới 01% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 146,
+      "order": "",
+      "content": "b) Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi chở hàng vượt từ 01% đến dưới 05% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 147,
+      "order": "",
+      "content": "c) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi chở hàng vượt từ 05% đến dưới 10% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 148,
+      "order": "",
+      "content": "d) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng vượt trên từ 10% trở lên so với trọng tải cho phép.",
+      "result": true
+    },
+    {
+      "id": 149,
+      "order": "",
+      "content": "7. Đối với hành vi chở hàng vượt quá tải trọng quy định của tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 150,
+      "order": "",
+      "content": "  a) Phạt cảnh cáo đối với hành vi chở hàng vượt đến dưới 01% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 151,
+      "order": "",
+      "content": "  b) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi chở hàng vượt từ 01% đến dưới 05% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 152,
+      "order": "",
+      "content": " c) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi chở hàng vượt từ 05% đến dưới 10% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 153,
+      "order": "",
+      "content": "d) Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với hành vi chở hàng vượt trên từ 10% trở lên so với trọng tải cho phép.",
+      "result": true
+    },
+    {
+      "id": 154,
+      "order": "",
+      "content": "8. Đối với hành vi chở hàng vượt quá tải trọng quy định của tàu thuyền có tổng dung tích từ 3.000 GT trở lên sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 155,
+      "order": "",
+      "content": "  a) Phạt cảnh cáo đối với hành vi chở hàng vượt đến dưới 1% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 156,
+      "order": "",
+      "content": "b) Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với hành vi chở hàng vượt từ 01% đến dưới 05% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 157,
+      "order": "",
+      "content": "c) Phạt tiền từ 50.000.000 đồng đến 60.000.000 đồng đối với hành vi chở hàng vượt từ 05% đến dưới 10% so với trọng tải cho phép;",
+      "result": true
+    },
+    {
+      "id": 158,
+      "order": "",
+      "content": "d) Phạt tiền từ 70.000.000 đồng đến 80.000.000 đồng đối với hành vi chở hàng vượt trên từ 10% trở lên so với trọng tải cho phép.",
+      "result": true
+    },
+    {
+      "id": 159,
+      "order": "",
+      "content": "9. Đối với hành vi chở khách quá số lượng quy định của tàu thuyền có tổng dung tích dưới 200 GT sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 160,
+      "order": "",
+      "content": " a) Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi chở khách vượt đến 5 người so với số lượng cho phép;",
+      "result": true
+    },
+    {
+      "id": 157,
+      "order": "",
+      "content": " b) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi chở khách vượt từ 6 đến 10 người so với số lượng cho phép;",
+      "result": true
+    },
+    {
+      "id": 158,
+      "order": "",
+      "content": " c) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi chở khách vượt trên 10 người so với số lượng cho phép.",
+      "result": true
+    },
+    {
+      "id": 159,
+      "order": "",
+      "content": "10. Đối với hành vi chở khách quá số lượng quy định của tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 160,
+      "order": "",
+      "content": "a) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi chở khách vượt đến 05 người so với số lượng cho phép;",
+      "result": true
+    },
+    {
+      "id": 161,
+      "order": "",
+      "content": "  b) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi chở khách vượt từ 06 đến 10 người so với số lượng cho phép;",
+      "result": true
+    },
+    {
+      "id": 162,
+      "order": "",
+      "content": " c) Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với hành vi chở khách vượt trên 10 người so với số lượng cho phép.",
+      "result": true
+    },
+    {
+      "id": 163,
+      "order": "",
+      "content": "11. Đối với hành vi chở khách vượt quá số lượng quy định của tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 164,
+      "order": "",
+      "content": "a) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi chở khách vượt đến 10 người so với số lượng cho phép;",
+      "result": true
+    },
+    {
+      "id": 165,
+      "order": "",
+      "content": " b) Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với hành vi chở khách vượt từ 11 người đến 20 người so với số lượng cho phép;",
+      "result": true
+    },
+    {
+      "id": 166,
+      "order": "",
+      "content": "c) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi chở khách vượt trên 20 người so với số lượng cho phép.",
+      "result": true
+    },
+    {
+      "id": 167,
+      "order": "",
+      "content": "12. Đối với hành vi chở khách vượt quá số lượng quy định của tàu thuyền có tổng dung tích từ 3.000 GT trở lên sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 168,
+      "order": "",
+      "content": "a) Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với hành vi chở khách vượt đến 20 người so với số lượng cho phép;",
+      "result": true
+    },
+    {
+      "id": 169,
+      "order": "",
+      "content": " b) Phạt tiền từ 40.000.000 đồng đến 60.000.000 đồng đối với hành vi chở khách vượt từ 21 người đến 30 người so với số lượng cho phép;",
+      "result": true
+    },
+    {
+      "id": 170,
+      "order": "",
+      "content": "c) Phạt tiền từ 60.000.000 đồng đến 80.000.000 đồng đối với hành vi chở khách vượt trên 30 người so với số lượng cho phép.",
+      "result": true
+    },
+    {
+      "id": 171,
+      "order": "",
+      "content": "13. Hình thức xử phạt bổ sung: Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng có thời hạn từ 01 tháng đến 03 tháng đối với hành vi vi phạm được quy định tại các điểm c và d khoản 7; các điểm c và d khoản 8; các khoản 9, 10, 11 và 12 Điều này.",
+      "result": true
+    },
+    {
+      "id": 172,
+      "order": "",
+      "content": "14. Biện pháp khắc phục hậu quả: Buộc cho rời tàu thuyền số người hoặc dỡ lên khỏi tàu thuyền số lượng hàng hóa chuyên chở vượt quy định đối với các hành vi vi phạm được quy định tại các khoản 5, 6, 7, 8, 9, 10, 11 và 12 Điều này.",
+      "result": true
+    },
+    {
+      "id": 173,
+      "order": "Điều 37.",
+      "content": "Vi phạm quy định về neo đậu, neo chờ, cập cầu, cập mạn, lai dắt của tàu thuyền trong vùng nước cảng biển",
+      "result": true
+    },
+    {
+      "id": 174,
+      "order": "",
+      "content": "1. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 175,
+      "order": "",
+      "content": " a) Neo đậu, neo chờ, cập cầu, cập mạn, di chuyển vị trí hoặc tiến hành các hoạt động tương tự khác trong vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải theo quy định;",
+      "result": true
+    },
+    {
+      "id": 176,
+      "order": "",
+      "content": " b) Không bố trí đủ đèn chiếu sáng, tín hiệu, báo hiệu, dấu hiệu cảnh báo theo quy định khi tàu làm hàng, neo đậu, cập cầu, cập mạn, di chuyển vị trí;",
+      "result": true
+    },
+    {
+      "id": 177,
+      "order": "",
+      "content": " c) Không có đệm chống va theo quy định;",
+      "result": true
+    },
+    {
+      "id": 178,
+      "order": "",
+      "content": "d) Không thông báo kịp thời cho Cảng vụ hàng hải khi phát hiện thấy sự sai lệch, hư hỏng của các báo hiệu hàng hải tại vùng nước cảng biển và khu vực quản lý của Cảng vụ hàng hải.",
+      "result": true
+    },
+    {
+      "id": 179,
+      "order": "",
+      "content": "2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:",
+      "result": true
+    },
+    {
+      "id": 180,
+      "order": "",
+      "content": "  a) Không chấp hành hoặc thực hiện sai kế hoạch, lệnh điều động của Cảng vụ hàng hải;",
+      "result": true
+    },
+    {
+      "id": 181,
+      "order": "",
+      "content": "b) Buộc tàu thuyền vào các báo hiệu hàng hải hoặc các kết cấu khác không dùng để buộc tàu theo quy định.",
+      "result": true
+    },
+    {
+      "id": 182,
+      "order": "",
+      "content": "3. Đối với hành vi tàu thuyền vào neo đậu, làm hàng, đón trả hành khách hoặc thực hiện các dịch vụ hàng hải khác tại vị trí chưa được phép của cơ quan có thẩm quyền sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 183,
+      "order": "",
+      "content": " a) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+      "id": 184,
+      "order": "",
+      "content": "b) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+      "id": 185,
+      "order": "",
+      "content": " c) Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;",
+      "result": true
+    },
+    {
+      "id": 186,
+      "order": "",
+      "content": "d) Phạt tiền từ 40.000.000 đồng đến 60.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+      "id": 187,
+      "order": "",
+      "content": "4. Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với hành vi tàu thuyền neo chờ nhưng không bảo đảm một trong các điều kiện neo chờ theo quy định.",
+      "result": true
+    },
+    {
+      "id": 188,
+      "order": "",
+      "content": "5. Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với hành vi sử dụng tàu lai dắt, hỗ trợ không theo quy định.",
+      "result": true
+    },
+    {
+      "id": 189,
+      "order": "",
+      "content": "6. Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi không sử dụng tàu lai dắt, hỗ trợ theo quy định.",
+      "result": true
+    },
+    {
+      "id": 190,
+      "order": "",
+      "content": "7. Hình thức xử phạt bổ sung: Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng có thời hạn từ 01 tháng đến 03 tháng đối với hành vi vi phạm được quy định tại điểm a khoản 2 và các khoản 3, 4, 5 và 6 Điều này.",
+      "result": true
+    },
+    {
+      "id": 191,
+      "order": "",
+      "content": "",
+      "result": true
+    },
+    {
+      "id": 192,
+      "order": "",
+      "content": "8. Biện pháp khắc phục hậu quả: ",
+      "result": true
+    },
+    {
+      "id": 193,
+      "order": "",
+      "content": " a) Buộc tàu thuyền phải rời khỏi vị trí đối với các hành vi vi phạm được quy định tại điểm b khoản 2 và khoản 3 Điều này;",
+      "result": true
+    },
+    {
+      "id": 194,
+      "order": "",
+      "content": "  b) Buộc khôi phục nguyên trạng vị trí báo hiệu, kết cấu công trình nếu làm di chuyển vị trí hoặc ảnh hưởng đến kết cấu công trình báo hiệu đối với hành vi vi phạm quy định điểm b khoản 2 Điều này.",
+      "result": true
+    },
+    {
+      "id": 195,
+      "order": "Điều 38.",
+      "content": "Vi phạm quy định về xếp, chằng buộc hàng hóa trên tàu thuyền",
+      "result": true
+    },
+    {
+      "id": 196,
+      "order": "",
+      "content": "1. Đối với hành vi xếp, chằng buộc hàng hóa của tàu thuyền không đúng quy định sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 197,
+      "order": "",
+      "content": "  a) Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+      "id": 198,
+      "order": "",
+      "content": "   b) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+      "id": 199,
+      "order": "",
+      "content": "c) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;",
+      "result": true
+    },
+    {
+      "id": 200,
+      "order": "",
+      "content": "d) Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+      "id": 201,
+      "order": "",
+      "content": "2. Đối với hành vi tự ý xếp, chằng buộc hàng hóa của tàu thuyền sau khi đã hoàn thành thủ tục rời cảng theo quy định sẽ bị xử phạt như sau:",
+      "result": true
+    },
+    {
+      "id": 202,
+      "order": "",
+      "content": "a) Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 200 GT;",
+      "result": true
+    },
+    {
+      "id": 203,
+      "order": "",
+      "content": " b) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+      "id": 204,
+      "order": "",
+      "content": " b) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với tàu thuyền có tổng dung tích từ 200 GT đến dưới 500 GT;",
+      "result": true
+    },
+    {
+      "id": 205,
+      "order": "",
+      "content": "d) Phạt tiền từ 20.000.000 đồng đến 25.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.",
+      "result": true
+    },
+    {
+      "id": 206,
+      "order": "Điều 39.",
+      "content": "Vi phạm quy định về vận chuyển hàng hóa siêu trường, siêu trọng",
+      "result": true
+    },
+    {
+      "id": 207,
+      "order": "",
+      "content": "1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi vận tải hàng hóa siêu trường, siêu trọng mà không có phương án bảo đảm an toàn được cơ quan nhà nước có thẩm quyền phê duyệt.",
+      "result": true
+    },
+    {
+      "id": 208,
+      "order": "",
+      "content": "2. Hình thức xử phạt bổ sung: Tước quyền sử dụng bằng thuyền trưởng, giấy chứng nhận khả năng chuyên môn thuyền trưởng có thời hạn từ 01 tháng đến 03 tháng đối với hành vi vi phạm quy định tại khoản 1 Điều này.",
+      "result": true
+    },
+    {
+      "id": 209,
+      "order": "",
+      "content": "3. Biện pháp khắc phục hậu quả: Buộc thực hiện biện pháp bảo đảm an toàn đối với hành vi vi phạm quy định tại khoản 1 Điều này.",
+      "result": true
+    }
+  ],
